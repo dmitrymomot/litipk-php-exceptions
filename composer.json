@@ -1,5 +1,5 @@
 {
-	"name": "litipk/php-exceptions",
+	"name": "dmitrymomot/php-exceptions",
 	"description": "An extended set of basic exceptions definitions.",
 	"keywords": ["exception", "exceptions"],
 	"license": "MIT",
